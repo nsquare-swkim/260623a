@@ -1,1 +1,13 @@
+__pycache__/
+*.pyc
 
+.venv/
+venv/
+
+.ipynb_checkpoints/
+
+.DS_Store
+Thumbs.db
+
+# 데이터 파일이 큰 경우 아래 주석을 해제하세요.
+# raw/*.mat
